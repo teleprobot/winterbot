@@ -23,7 +23,3 @@ yt-dlp
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
 numpy
-pyrogram==2.0.106
-aiohttp==3.8.1
-requests==2.31.0
-pymongo==4.5.0
